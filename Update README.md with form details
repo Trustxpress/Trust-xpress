@@ -1,0 +1,54 @@
+# Trust-xpress
+Trust Xpress - A dropshipping gadget store website built with HTML and Tailwind CSS.”
+<form action="https://formspree.io/f/mzbqneoy" method="POST">
+  <label for="name">নাম:</label><br>
+  <input type="text" id="name" name="name" required><br><br>
+
+  <label for="phone">ফোন নম্বর:</label><br>
+  <input type="tel" id="phone" name="phone" required><br><br>
+
+  <label for="product">প্রোডাক্ট নাম:</label><br>
+  <input type="text" id="product" name="product" required><br><br>
+
+  <label for="address">ঠিকানা:</label><br>
+  <input type="text" id="address" name="address" required><br><br>
+
+  <label for="message">মেসেজ (ঐচ্ছিক):</label><br>
+  <textarea id="message" name="message"></textarea><br><br>
+
+  <button type="submit">অর্ডার করুন</button>
+</form><form action="https://formspree.io/f/mzbqneoy" method="POST">
+  <label for="name">নাম:</label><br>
+  <input type="text" id="name" name="name" required><br><br>
+
+  <label for="phone">ফোন নম্বর:</label><br>
+  <input type="tel" id="phone" name="phone" required><br><br>
+
+  <label for="product">প্রোডাক্ট নাম:</label><br>
+  <input type="text" id="product" name="product" required><br><br>
+
+  <label for="address">ঠিকানা:</label><br>
+  <input type="text" id="address" name="address" required><br><br>
+
+  <label for="message">মেসেজ (ঐচ্ছিক):</label><br>
+  <textarea id="message" name="message"></textarea><br><br>
+
+  <button type="submit">অর্ডার করুন</button>
+</form><form action="https://formspree.io/f/mzbqneoy" method="POST">
+  <label for="name">নাম:</label><br>
+  <input type="text" id="name" name="name" required><br><br>
+
+  <label for="phone">ফোন নম্বর:</label><br>
+  <input type="tel" id="phone" name="phone" required><br><br>
+
+  <label for="product">প্রোডাক্ট নাম:</label><br>
+  <input type="text" id="product" name="product" required><br><br>
+
+  <label for="address">ঠিকানা:</label><br>
+  <input type="text" id="address" name="address" required><br><br>
+
+  <label for="message">মেসেজ (ঐচ্ছিক):</label><br>
+  <textarea id="message" name="message"></textarea><br><br>
+
+  <button type="submit">অর্ডার করুন</button>
+</form>
